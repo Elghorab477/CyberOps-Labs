@@ -1,0 +1,29 @@
+# CyberOps Labs
+
+This repository contains hands-on lab work completed as part of my Network Security specialization under the **NTI (National Telecommunication Institute) scholarship**, Egypt's Ministry of Communications and Information Technology.
+
+## About Me
+Third-year Computer Science student specializing in Network Security & CyberOps, with a focus on building practical, hands-on skills alongside academic coursework.
+
+## Labs Included
+
+### 1. Linux Servers Lab
+Covers Linux process management and network service diagnostics:
+- Displaying and analyzing running processes using `ps`
+- Understanding process hierarchy (parent/child processes)
+- Using `netstat` to inspect active network connections and listening ports
+- Installing and managing the Nginx web server
+- Testing services using `telnet`
+
+### 2. Locating Log Files Lab
+Covers Linux log file analysis for security monitoring:
+- Reading and interpreting web server access logs
+- Using `journalctl` to review systemd service logs
+- Troubleshooting service failures (e.g., Nginx bind errors)
+- Understanding log formats and their role in incident analysis
+
+## Skills Demonstrated
+`Linux Administration` `Network Diagnostics` `Log Analysis` `Nginx` `CyberOps Fundamentals`
+
+---
+*Part of ongoing coursework toward a career in Network Security & Cybersecurity Engineering.*
